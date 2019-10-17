@@ -10,7 +10,7 @@ Brian
 
 ### 最新
 
-* [博客部署指导](http://blog.hubowestlife.cn/articles/2019/10/15/1571143443076.html)
+* [Solo博客docker部署指南，10分钟搞定！](http://blog.hubowestlife.cn/articles/2019/10/15/1571143443076.html)
 
 
 
